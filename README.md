@@ -8,5 +8,5 @@ O script `sql_get_table.py` é um utilitário Python que percorre arquivos SQL e
 ## Contribuição
 Se você tem algum utilitário útil que gostaria de compartilhar, sinta-se à vontade para contribuir para este repositório. Basta enviar um pull request.
 
-### Nota: 
+## Nota: 
 Certifique-se de revisar e ajustar o conteúdo conforme necessário, especialmente se houver informações específicas sobre como os scripts devem ser usados ou configurados.
