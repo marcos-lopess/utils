@@ -23,7 +23,6 @@ O script `sql_get_table.py` é um utilitário Python que percorre arquivos SQL e
     ```bash
     python sql_get_table.py caminho/para/sua/pasta "SELECT * FROM # LIMIT 10;"
 
-
 ## Outros Utilitários
 Este repositório pode conter outros utilitários para facilitar tarefas comuns. Sinta-se à vontade para explorar os scripts disponíveis.
 
